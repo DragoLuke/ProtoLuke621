@@ -13,7 +13,7 @@
 <br>
 
 ## Stats
-![Git Statistics](https://github-readme-stats.vercel.app/api?username=ZEROPOINTBRUH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Git Statistics](https://github-readme-stats.vercel.app/api?username=ProtoLuke621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 ## Language Fluency
-![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEROPOINTBRUH&hide_border=true&layout=compact&theme=tokyonight)
+![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtoLuke621&hide_border=true&layout=compact&theme=tokyonight)
