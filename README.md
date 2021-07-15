@@ -9,7 +9,7 @@
 <br>
 
 <!-- Descriptor !-->
-<p align="center">The Chinese Was Here to touchup my firewall</p>
+<p align="center">The CCP won't let me be or let me be me so let me see</p>
 <br>
 
 ## Stats
