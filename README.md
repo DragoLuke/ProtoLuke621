@@ -8,7 +8,9 @@
 <br>
 
 <!-- Descriptor !-->
-<p align="center">The CCP won't let me be or let me be me so let me see</p>
+<p align="center">I'm just your normal cybersecurity / Linux enthusiast who likes the protos and the synths ^_^
+and welcomes year zero ⛧
+https://youtu.be/_Mbxe33BYW8</p>
 <br>
 
 ## Stats
