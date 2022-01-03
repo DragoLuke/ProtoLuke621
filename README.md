@@ -5,9 +5,7 @@
 <br>
 
 <!-- Descriptor !-->
-<p align="center">I'm just your normal cybersecurity / Linux enthusiast who likes the protos and the synths ^_^
-and welcomes year zero ⛧
-https://youtu.be/_Mbxe33BYW8</p>
+<p align="center">I'm just your normal cybersecurity / Linux enthusiast who likes the protos and the synths ^_^</p>
 <br>
 
 ## Stats
