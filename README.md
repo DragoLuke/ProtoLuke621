@@ -5,7 +5,7 @@
 <br>
 
 <!-- Descriptor !-->
-<p align="center">I'm just your normal cybersecurity / Linux enthusiast who likes the protos and the synths ^_^</p>
+<p align="center">I'm just your normal cybersecurity / Linux enthusiast who likes synths and dragons ^_^ </p>
 <br>
 
 ## Stats
